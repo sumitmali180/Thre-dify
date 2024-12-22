@@ -1,0 +1,104 @@
+{
+  "DefaultPost": {
+    "0": {
+      "name": "Saanvi Patel",
+      "post": "This book is a compelling read that delves into India's unique role in the global arena. The book explores the nation's rich cultural heritage, its strategic importance, and its rise as a key player in international politics. Jaishankar’s insights are both thought-provoking and informative, offering readers a deeper understanding of India's past, present, and future. For book lovers, it's a must-read for its eloquent writing, historical perspective, and the clear portrayal of India's vision on the world stage. It’s a perfect blend of politics, history, and global strategy, making it engaging for any reader.",
+      "category": "Books",
+      "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8fd807d9-ef90-4ad1-925d-ffd92495af06.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "likes": 38,
+      "dislikes": 2,
+      "dateOfCreation": "2024-12-08",
+      "comments": "Books are the best escape."
+    },
+    "1": {
+      "name": "Virat Kapoor",
+      "post": "Traveling is the best way to learn about the Nature. Jaipur offers several stunning sunset viewpoints for travelers. Amer Fort, with its grand architecture, provides breathtaking views from its towers. The Jaipur Wall (Amer Wall), opposite the fort, stretches along the Aravalli Mountains and offers fantastic sunset vistas. Nahargarh Fort, perched on a hill above the city, has free-to-access walls with panoramic views of Jaipur. Lastly, the Jal Mahal, located on an island in Man Sagar Lake, offers a picturesque sunset with the palace reflecting on the water. These spots, each with its own charm, are perfect for witnessing the Pink City’s enchanting sunsets.",
+      "category": "Travel",
+      "image": "https://www.incredibleindia.gov.in/content/dam/incredible-india/images/rajasthan/jaipur/external-blogs/7-best-jaipur/7-best-jaipur-masthead-popular-popular.jpg",
+      "likes": 42,
+      "dislikes": 3,
+      "dateOfCreation": "2024-12-07",
+      "comments": "I want to visit more countries."
+    },
+    "2": {
+      "name": "Siddharth Reddy",
+      "post": "Advancements in AI will shape the future of technology.AI is transforming our lives in countless ways, making tasks easier and more efficient. From personal assistants like Siri and Alexa to self-driving cars, AI is improving convenience and accessibility. In healthcare, AI aids in diagnosing diseases and personalizing treatment plans. It enhances productivity in businesses by automating repetitive tasks, allowing workers to focus on more complex problems. AI also revolutionizes education, providing personalized learning experiences. Furthermore, it helps in managing energy consumption, reducing waste, and advancing research. Overall, AI is shaping a future where technology works alongside humans to improve quality of life and drive innovation.",
+      "category": "Technology",
+      "image": "https://miro.medium.com/v2/resize:fit:828/format:webp/1*mu2sdrDsYuVfn2JTDwtx5Q.jpeg",
+      "likes": 54,
+      "dislikes": 5,
+      "dateOfCreation": "2024-12-06",
+      "comments": "AI is definitely the future!"
+    },
+    "3": {
+      "name": "Aditi Sharma",
+      "post": "Health is wealth is an age-old saying that emphasizes the importance of maintaining good health. Our physical and mental well-being is the foundation for leading a happy and productive life. Without good health, achieving our goals becomes a challenge, and life’s pleasures become less enjoyable. To take care of our health, we must adopt a balanced diet, regular exercise, and sufficient sleep. Additionally, managing stress and fostering positive relationships are vital. Prioritizing health not only improves longevity but also enhances our overall quality of life. Remember, our health is the greatest asset, and it deserves our attention and care.",
+      "category": "Health",
+      "image": "https://media.istockphoto.com/id/1680653991/photo/a-female-doctor-conducting-a-thorough-examination-of-a-child-during-a-rural-health-care-camp.jpg?b=1&s=612x612&w=0&k=20&c=-HF2GYbdegSILCJO5LyfNMsRd8UNJWEDizYsBi3gB0E=",
+      "likes": 33,
+      "dislikes": 1,
+      "dateOfCreation": "2024-12-05",
+      "comments": "So true! We need to prioritize health."
+    },
+    "4": {
+      "name": "Rohit Sharma",
+      "post": "Fitness is often associated with physical strength, but true wellness goes beyond just working out. Mental peace plays a crucial role in overall fitness. Stress, anxiety, and negative thoughts can hinder progress and affect the body’s performance. Practicing mindfulness, meditation, and self-care are essential components of a balanced fitness routine. When we prioritize mental well-being, we foster a positive mindset that enhances motivation, focus, and resilience. Achieving mental peace not only boosts physical performance but also improves emotional health, making us feel stronger and more fulfilled. Remember, true fitness is the harmony of body, mind, and soul.",
+      "category": "Fitness",
+      "image": "https://images.pexels.com/photos/2261482/pexels-photo-2261482.jpeg?auto=compress&cs=tinysrgb&w=300",
+      "likes": 60,
+      "dislikes": 4,
+      "dateOfCreation": "2024-12-04",
+      "comments": "Mental fitness is so important!"
+    },
+    "5": {
+      "name": "Divya Verma",
+      "post": "Fashion is more than just clothes; it’s a powerful form of self-expression. The way we dress reflects our personality, values, and emotions, telling the world who we are without saying a word. Whether it’s bold colors, vintage styles, or minimalist looks, fashion allows us to communicate our individuality and creativity. It’s a unique art form that evolves with us, adapting to our moods, life stages, and experiences. Embracing personal style isn’t about following trends; it’s about feeling confident and authentic in what we wear. Fashion is truly a canvas where we can express our inner selves to the world.",
+      "category": "Fashion",
+      "image": "https://t3.ftcdn.net/jpg/00/98/45/38/240_F_98453833_iTZcTGS6GdM8th9S4fj3Cvxtmu4s1HTZ.jpg",
+      "likes": 28,
+      "dislikes": 0,
+      "dateOfCreation": "2024-12-03",
+      "comments": "I love experimenting with styles!"
+    },
+    "6": {
+      "name": "Nisha Rani",
+      "post": "Food is more than just nourishment—it’s an art that connects us. From the vibrant colors of fresh ingredients to the rich aromas of a home-cooked meal, food has the power to evoke emotions, memories, and create shared experiences. Whether it's a family gathering, a dinner with friends, or a meal shared with strangers, food has a unique way of bringing people together. It transcends cultures and bridges gaps, making every bite a celebration of togetherness. In a world where we often feel distant, food serves as a reminder that the best moments are shared around the table. #FoodIsArt #BringingPeopleTogether",
+      "category": "Food",
+      "image": "https://t3.ftcdn.net/jpg/02/39/67/70/240_F_239677074_LxDCb9ktrgHmgA3ste8aVyMcT1uZbmPm.jpg",
+      "likes": 36,
+      "dislikes": 2,
+      "dateOfCreation": "2024-12-02",
+      "comments": "I love trying new cuisines."
+    },
+    "7": {
+      "name": "Manav Singh",
+      "post": "Movies have the power to inspire, educate, and entertain, making them a vital part of our lives. They inspire by telling stories of resilience, courage, and creativity, motivating us to chase our dreams. Through powerful narratives, films educate us about different cultures, historical events, and complex social issues, broadening our understanding of the world. At the same time, they entertain us, providing an escape from reality, offering joy, laughter, and sometimes a cathartic release. Whether it’s through storytelling, visuals, or emotion, movies connect us all, making them an essential source of learning and enjoyment in our daily lives.",
+      "category": "Movies",
+      "image": "https://t4.ftcdn.net/jpg/04/13/24/47/240_F_413244709_m2razfJfs0MceeLwudtvS1hmquZW5iFi.jpg",
+      "likes": 41,
+      "dislikes": 3,
+      "dateOfCreation": "2024-12-01",
+      "comments": "Movies are the best form of escape."
+    },
+    "8": {
+      "name": "Amit Patel",
+      "post": "Music is a universal language that transcends boundaries and connects souls across cultures, races, and languages. Whether it’s a melody from a distant land or a beat that echoes in our hearts, music has the power to unite us. It breaks down barriers, sparks emotions, and tells stories that words alone cannot express. In times of joy or sorrow, music speaks to our deepest emotions, creating a sense of belonging and shared experience. No matter where we come from, music reminds us that we’re all part of a global family, united by rhythm, harmony, and the beauty of sound.",
+      "category": "Music",
+      "image": "https://t3.ftcdn.net/jpg/01/42/51/58/240_F_142515887_xVLCVpdyWDU5ScHTi64iMCEZJioVHqU4.jpg",
+      "likes": 50,
+      "dislikes": 5,
+      "dateOfCreation": "2024-11-30",
+      "comments": "Music is life!"
+    },
+    "9": {
+      "name": "Rajesh Reddy",
+      "post": "Sports teach us valuable life lessons that go beyond the game. Discipline is instilled through regular practice, focus, and self-control, pushing us to improve and stay committed. Teamwork becomes essential as we learn to collaborate, communicate, and support each other toward a common goal. Whether it's a win or loss, sports foster perseverance by teaching us to keep going despite challenges, setbacks, or failures. These qualities not only make us better athletes but also strengthen our character in everyday life. By embracing sports, we learn how to face life's challenges with determination, resilience, and a team-oriented mindset.",
+      "category": "Sports",
+      "image": "https://t4.ftcdn.net/jpg/04/75/08/11/240_F_475081166_A1YI8Oan7Cq84OGpqGE8RCBDUae4Xvrc.jpg",
+      "likes": 33,
+      "dislikes": 2,
+      "dateOfCreation": "2024-11-29",
+      "comments": "Sports are a great way to stay fit."
+    }
+  }
+}

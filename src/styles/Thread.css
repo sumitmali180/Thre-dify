@@ -1,0 +1,124 @@
+/* General Container Styling */
+.Thread {
+    padding: 20px;
+    max-width: 1200px; /* Increased max-width for better grid display */
+    margin: auto;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Light background for contrast */
+  }
+  
+  /* Header Styling */
+  h1 {
+    text-align: center;
+    color: rgb(212, 255, 0); /* Navbar logo color */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Textarea for writing a new post */
+  .textarea {
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    font-size: 16px;
+    background-color: #fff;
+  }
+  
+  .button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: rgb(212, 255, 0); /* Navbar logo color */
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .button:hover {
+    background-color: rgb(180, 230, 0); /* Slightly darker shade for hover */
+  }
+  
+  /* Styling the grid for the posts */
+  .posts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
+    gap: 20px; /* Space between the grid items */
+  }
+  
+  .post-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .post-card:hover {
+    transform: translateY(-5px); /* Slight lift effect on hover */
+  }
+  
+  .action-buttons {
+    margin-top: 10px;
+  }
+  
+  .action-buttons button {
+    padding: 8px 12px;
+    border: none;
+    background-color: rgb(212, 255, 0); /* Navbar logo color */
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 10px;
+  }
+  
+  .action-buttons button:hover {
+    background-color: rgb(180, 230, 0); /* Hover effect */
+  }
+  
+  /* Comment Section Styling */
+  .comments-section {
+    margin-top: 15px;
+  }
+  
+  .comment-input {
+    margin-top: 10px;
+  }
+  
+  .comment-input input {
+    width: calc(100% - 60px);
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .comment-input button {
+    padding: 10px 15px;
+    background-color: rgb(212, 255, 0); /* Navbar logo color */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .comment-input button:hover {
+    background-color: rgb(180, 230, 0); /* Hover effect */
+  }
+  
+  /* Comment text style */
+  .comment {
+    margin: 5px 0;
+    padding-left: 10px;
+    border-left: 2px solid rgb(212, 255, 0);
+    font-style: italic;
+    color: #333;
+  }
+  

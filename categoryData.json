@@ -1,0 +1,84 @@
+{
+    "CategoriesPref": {
+        "0": {
+            "image": "https://images.unsplash.com/photo-1674719645138-c3fd1aaf8307?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmVoaWNsZXxlbnwwfHwwfHx8MA%3D%3D",
+            "title": "Cars"
+        },
+        "1": {
+            "image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2018/07/iStock-506432952.jpg",
+            "title": "Books"
+        },
+        "2": {
+            "image": "https://media.istockphoto.com/id/1153172622/photo/vacation-travel-planning-concept-with-map-overhead-view-of-equipment-for-travelers-travel.jpg?b=1&s=612x612&w=0&k=20&c=rtGLwMq-mUCmOWNx2kDHdaKRq03-Ls6wqd4VSIxMgto=",
+            "title": "Travel"
+        },
+        "3": {
+            "image": "https://images.pexels.com/photos/3568520/pexels-photo-3568520.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "title": "Technology"
+        },
+        "4": {
+            "image": "https://images.pexels.com/photos/5327589/pexels-photo-5327589.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "title": "Health"
+        },
+        "5": {
+            "image": "https://images.pexels.com/photos/317157/pexels-photo-317157.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "title": "Fitness"
+        },
+        "6": {
+            "image": "https://media.istockphoto.com/id/1176789549/photo/handsome-gentleman-downtown.jpg?b=1&s=612x612&w=0&k=20&c=zBp0HwDhD6HaZd1UNrHmm2dDLJSC_0eSjShPXq5H_ks=",
+            "title": "Fashion"
+        },
+        "7": {
+            "image": "https://images.pexels.com/photos/5779748/pexels-photo-5779748.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "title": "Food"
+        },
+        "8": {
+            "image": "https://images.pexels.com/photos/3945320/pexels-photo-3945320.jpeg?auto=compress&cs=tinysrgb&w=400",
+            "title": "Entertainment"
+        },
+        "9": {
+            "image": "https://sp.yimg.com/ib/th?id=OIP.PGuUh-X_XVPMR3tGqJPWdwHaE7&pid=Api&w=148&h=148&c=7&dpr=2&rs=1",
+            "title": "Music"
+        },
+        "10": {
+            "image": "https://tse4.mm.bing.net/th?id=OIP.dfaDpLneYOCCwU7STO4wTgHaE8&pid=Api&P=0&h=180",
+            "title": "Sports"
+        },
+        "11": {
+            "image": "https://tse3.mm.bing.net/th?id=OIP.i3yNu60jPWTF-Q_3FaXpVAHaE7&pid=Api&P=0&h=180",
+            "title": "Education"
+        },
+        "12": {
+            "image": "https://tse3.mm.bing.net/th?id=OIP.RL3oNOiaRWAz_XPR7Dtd5QHaEo&pid=Api&P=0&h=180",
+            "title": "Art"
+        },
+        "13": {
+            "image": "https://tse2.mm.bing.net/th?id=OIP.PTzieqi1qn6XS2XtzHnlvQHaEK&pid=Api&P=0&h=180",
+            "title": "Science"
+        },
+        "14": {
+            "image": "https://tse2.mm.bing.net/th?id=OIP.ZqGCASm1z8aePQJy_nqk0gHaEF&pid=Api&P=0&h=180",
+            "title": "History"
+        },
+        "15": {
+            "image": "https://tse3.mm.bing.net/th?id=OIP.TMrTbZVY4pkuyMz7Z4zaYAHaE8&pid=Api&P=0&h=180",
+            "title": "Business"
+        },
+        "16": {
+            "image": "https://tse2.mm.bing.net/th?id=OIP.rPKqfxdN-L7fEAsv1UOfbAHaE8&pid=Api&P=0&h=180",
+            "title": "Farmer"
+        },
+        "17": {
+            "image": "https://tse2.mm.bing.net/th?id=OIP.mCeISF5RneVqhTh5G9k0GgHaEo&pid=Api&P=0&h=180",
+            "title": "Photography"
+        },
+        "18": {
+            "image": "https://tse2.mm.bing.net/th?id=OIP.0CM1HNgC1lxQ8PXP03LylwHaEK&pid=Api&P=0&h=180",
+            "title": "Gaming"
+        },
+        "19": {
+            "image": "https://up.yimg.com/ib/th?id=OIP.i3ddzhBI6N8lWeDZ7D-EJQHaEK&pid=Api&rs=1&c=1&qlt=95&w=193&h=108",
+            "title": "Relationships"
+        }
+    }
+}

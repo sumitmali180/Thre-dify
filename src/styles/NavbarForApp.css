@@ -1,0 +1,55 @@
+/* General Navbar Styling */
+.navbar-custom {
+  background-color: rgb(212, 255, 0); /* Light background color */
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Light shadow for subtle effect */
+  padding: 1px 2rem; /* Adjust padding to make navbar slightly larger */
+}
+
+.navbar-custom .navbar-brand {
+  font-size: 1.8rem; /* Make the brand text larger */
+  font-weight: bold; /* Make brand text bold */
+  color: #007bff; /* Blue color for brand */
+}
+
+.navbar-custom .navbar-brand:hover {
+  color: #0056b3; /* Dark blue color on hover */
+}
+
+.navbar-links {
+  display: flex;
+  justify-content: space-around; /* Evenly space the nav links */
+  width: 100%;
+}
+
+.custom-nav-link {
+  color: #333; /* Dark text color for links */
+  font-size: 1.1rem; /* Slightly larger text for links */
+  font-weight: 500; /* Medium weight for readability */
+  padding: 0.6rem 1.2rem; /* Space out the links */
+}
+
+.custom-nav-link:hover {
+  color:grey; /* Blue color on hover */
+  text-decoration: none; /* Remove underline on hover */
+}
+/* Add to NavbarForApp.css */
+.profile-pic img {
+  width: 10px;
+}
+
+
+/* Responsiveness for mobile devices */
+@media (max-width: 991px) {
+  .navbar-custom {
+    padding: 0.6rem 1rem;
+  }
+
+  .navbar-links {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .custom-nav-link {
+    margin: 0.5rem 0; /* Add vertical margin for better spacing */
+  }
+}
